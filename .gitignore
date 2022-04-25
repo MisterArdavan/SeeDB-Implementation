@@ -15,3 +15,57 @@ __pycache__/
 *$py.class
 
 .vscode
+exp 1/max(capital_gain) education.png
+exp 1/max(capital_gain) native_country.png
+exp 1/max(capital_loss) education.png
+exp 1/max(capital_loss) native_country.png
+exp 1/max(capital_loss) occupation.png
+exp 1 EMD/sum(capital_gain) class.png
+exp 1 EMD/sum(capital_gain) native_country.png
+exp 1 EMD/sum(capital_gain) race.png
+exp 1 EMD/sum(capital_gain) sex.png
+exp 1 EMD/sum(capital_gain) work_class.png
+exp 2/max(capital_gain) native_country.png
+exp 2/max(capital_loss) education.png
+exp 2/max(capital_loss) native_country.png
+exp 2/min(capital_gain) native_country edit.png
+exp 2/min(capital_loss) native_country edit.png
+exp 2 EMD/sum(capital_gain) class.png
+exp 2 EMD/sum(capital_gain) native_country.png
+exp 2 EMD/sum(capital_gain) race.png
+exp 2 EMD/sum(capital_gain) sex.png
+exp 2 EMD/sum(capital_gain) work_class.png
+exp 3/max(capital_gain) native_country.png
+exp 3/max(capital_loss) education.png
+exp 3/max(capital_loss) native_country.png
+exp 3/min(capital_gain) native_country.png
+exp 3/min(capital_loss) native_country.png
+exp 3 EMD/sum(capital_gain) class.png
+exp 3 EMD/sum(capital_gain) native_country.png
+exp 3 EMD/sum(capital_gain) race.png
+exp 3 EMD/sum(capital_gain) sex.png
+exp 3 EMD/sum(capital_gain) work_class.png
+exp 4/max(capital_gain) native_country.png
+exp 4/max(capital_loss) education.png
+exp 4/max(capital_loss) native_country.png
+exp 4/min(capital_gain) native_country.png
+exp 4/min(capital_loss) native_country.png
+exp 4 EMD/sum(capital_gain) class.png
+exp 4 EMD/sum(capital_gain) native_country.png
+exp 4 EMD/sum(capital_gain) race.png
+exp 4 EMD/sum(capital_gain) sex.png
+exp 4 EMD/sum(capital_gain) work_class.png
+exp 5/max(capital_gain) native_country.png
+exp 5/max(capital_loss) education.png
+exp 5/max(capital_loss) native_country.png
+exp 5/min(capital_gain) native_country.png
+exp 5/min(capital_loss) native_country.png
+exp 5 EMD/sum(capital_gain) class.png
+exp 5 EMD/sum(capital_gain) native_country.png
+exp 5 EMD/sum(capital_gain) race.png
+exp 5 EMD/sum(capital_gain) sex.png
+exp 5 EMD/sum(capital_gain) work_class.png
+exp1 with relationship/count(age) occupation.png
+exp1 with relationship/max(capital_gain) relationship.png
+exp1 with relationship/sum(capital_gain) relationship.png
+exp1 with relationship/sum(capital_loss) relationship.png
